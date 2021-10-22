@@ -1,0 +1,25 @@
+{
+  "PowerLineFrequency": 50,
+  "SoftwareFilters": {
+    "FilterDescription": {
+      "Description": "1Hz high pass filter, 50Hz notch filter"
+    }
+  },
+  "EEGPlacementScheme": "10-20",
+  "EEGReference": "average",
+  "InstitutionAddress": "Tehran, Iran",
+  "InstitutionalDepartmentName": "Electrical Engineering",
+  "InstitutionName": "Sharif University of Technology (SUT)",
+  "Instructions": "During the experiment, participant was seated comfortably with open eyes in a quiet room. He was instructed to relax his body to avoid muscle artifacts and move his head as little as possible. The participant was free to take a rest after each epoch but the EEG cap was not taken off.",
+  "TaskDescription": "The task is composed of three epochs of auditory, visual, and audio-visual stimulations respectively, each lasting for 40sec in one session.",
+  "TaskName": "MultisensoryGammaEntrainment",
+  "MiscChannelCount": 0,
+  "RecordingType": "epoched",
+  "EpochLength": 40,
+  "RecordingDuration": 120,
+  "SamplingFrequency": 500,
+  "EEGChannelCount": 19,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0
+}
